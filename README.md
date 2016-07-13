@@ -1,6 +1,6 @@
 #IOS IPV4 Subnet Calculator
 
-An easy to use, simple IPv4 subnet calculator .Subnet Calculator takes an IP address and netmask and calculates the resulting broadcast, network, and host range.
+An easy to use, simple IPv4 subnet calculator. Subnet Calculator takes an IP address and netmask and calculates the resulting broadcast, network, and host range.
 This is a useful feature for service providers and network operator who frequently allocate and work with IPV4 subnets.
 
 Features:
